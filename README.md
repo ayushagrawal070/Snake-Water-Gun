@@ -1,2 +1,2 @@
 # Snake-Water-Gun
-It is a guessing game written in python using random module and let u make guesses and compete with computer
+An online version of the best childhood game where you can compete with system and can refresh your sweet childhood memories.
